@@ -1,10 +1,29 @@
 
 <h1 align="center"> 🅻🅸🅱🆁🅰🆁🆈-🅼🅰🅽🅰🅶🅴🅼🅴🅽🆃-🆂🆈🆂🆃🅴🅼 </h1>
-<h1 align="left"> #𝗧𝗵𝘆𝗺𝗲 𝗹𝗲𝗮𝗳  #𝗦𝗽𝗿𝗶𝗻𝗴 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 #𝗠𝘆𝗦𝗤𝗟  </h1>
-<h1 align="left"> Screenshots of the Project  </h1>
+
+## Application features:
+This project is a simple library management application. Book promotion within the application (book title, book sub-name, book series
+name, author, publishing house, isbn number, description), author promotion (Author Name, Description), publisher promotion (Publisher Name, Description).
+More than one book can be defined for an author. More than one book can be defined for a publishing house. Search by title, Series title, Author or ISBN.
+A record can be modified, can be reviewed or can be deleted.
+
+## Used technologies:
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- Mysql Database
+- Thymeleaf template pages
+
+<h2 align="left"> Screenshots of the Project  </h1>
 
 ## Sign in Page 
-## Login Credentials Super Admin - Username = Rohit Password - rohit@123  Admin - Username = Akshay Password - akshay@123
+- Login as Admin 
+username: Rohit
+password: rohit@123
+
+- Login as User
+username: Akshay
+password: akshay@123
 ![git](https://user-images.githubusercontent.com/57706022/156169512-675968d1-b606-4fa6-be50-90bb4bfcde7c.png)
 
 ## Welcome Page
