@@ -1,6 +1,6 @@
 
 <h1 align="center"> 🅻🅸🅱🆁🅰🆁🆈-🅼🅰🅽🅰🅶🅴🅼🅴🅽🆃-🆂🆈🆂🆃🅴🅼 </h1>
-<h1 align="center"> Screenshots of the Project </h1>
+<h1 align="left"> ### Screenshots of the Project ### </h1>
 
 ## Welcome Page
 ![git](https://user-images.githubusercontent.com/57706022/156163354-76d5f3a6-2d89-4e92-b770-7e7fff8c074c.png)
