@@ -4,8 +4,7 @@
 <h1 align="left"> Screenshots of the Project  </h1>
 
 ## Sign in Page 
-## Login Credentials 
-## Super Admin - Username = Rohit Password - rohit@123  Admin - Username = Akshay Password - akshay@123
+## Login Credentials Super Admin - Username = Rohit Password - rohit@123  Admin - Username = Akshay Password - akshay@123
 ![git](https://user-images.githubusercontent.com/57706022/156169512-675968d1-b606-4fa6-be50-90bb4bfcde7c.png)
 
 ## Welcome Page
